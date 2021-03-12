@@ -1,0 +1,7 @@
+D:\Área de Trabalho\Facul\ConversorDecimalBinario\ConversorDecimalBinario\bin\Debug\ConversorDecimalBinario.exe.config
+D:\Área de Trabalho\Facul\ConversorDecimalBinario\ConversorDecimalBinario\bin\Debug\ConversorDecimalBinario.exe
+D:\Área de Trabalho\Facul\ConversorDecimalBinario\ConversorDecimalBinario\bin\Debug\ConversorDecimalBinario.pdb
+D:\Área de Trabalho\Facul\ConversorDecimalBinario\ConversorDecimalBinario\obj\Debug\ConversorDecimalBinario.csprojAssemblyReference.cache
+D:\Área de Trabalho\Facul\ConversorDecimalBinario\ConversorDecimalBinario\obj\Debug\ConversorDecimalBinario.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Facul\ConversorDecimalBinario\ConversorDecimalBinario\obj\Debug\ConversorDecimalBinario.exe
+D:\Área de Trabalho\Facul\ConversorDecimalBinario\ConversorDecimalBinario\obj\Debug\ConversorDecimalBinario.pdb
